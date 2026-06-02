@@ -32,7 +32,7 @@ A PyQt6-based desktop application for discovering, managing, and interacting wit
 
 Run the application:
 ```bash
-python main.py
+python venv_manager.py
 ```
 
 1. **Select Directory**: Use the "Browse..." button or manually enter a root directory path to scan
