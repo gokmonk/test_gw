@@ -65,8 +65,8 @@ python venv_manager.py
 
 ```
 .
-├── main.py              # Main application file
-└── README.md            # This file
+├── venv_manager.py              # Main application file
+└── README.md                    # This file
 ```
 
 ## How It Works
